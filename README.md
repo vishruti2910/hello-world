@@ -1,2 +1,1 @@
-# hello-world
-This is my first hello-world repository.
+Learn about graphic design ideas that apply to web design, as well as how to put theory into reality. Develop abilities in evaluating a website's usability. Understand how to design and conduct online usability user research. Learn HTML and CSS, the web's primary languages.
